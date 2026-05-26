@@ -19,10 +19,11 @@
   <img src="./assets/logo.png" alt="ChatGenius AI Interface" width="150"/>
 
   <br />
+  <br />
 
   <!-- Powered-by tech stack -->
   <img src="https://cdn.simpleicons.org/electron/47848F" width="28" title="Electron" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="28" title="OpenAI" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="28" title="OpenAI" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="28" title="Google Gemini" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="28" title="Anthropic Claude" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="28" title="Ollama" />&nbsp;&nbsp;
