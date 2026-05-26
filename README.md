@@ -4,7 +4,7 @@
 
   **All AI Models in One Place, Under Your Control.**
 
-  [![Version](https://img.shields.io/badge/Version-1.0.7--beta-blue.svg?style=for-the-badge)](https://github.com/GokhanKR/electron-gpt-app/releases)
+  [![Version](https://img.shields.io/badge/Version-1.0.7--beta-blue.svg?style=for-the-badge)](https://github.com/GokhanKR/chatgenius-ai-app/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg?style=for-the-badge)](#-download-now)
   [![License](https://img.shields.io/badge/License-Free-success.svg?style=for-the-badge)](#)
 
@@ -15,9 +15,9 @@
   <br />
   <br />
 
-  [Download for Windows](https://github.com/GokhanKR/electron-gpt-app/releases/latest) •
+  [Download for Windows](https://github.com/GokhanKR/chatgenius-ai-app/releases/latest) •
   ~~[Download for macOS]~~ *(Coming Soon)* •
-  [Download for Linux](https://github.com/GokhanKR/electron-gpt-app/releases/latest)
+  [Download for Linux](https://github.com/GokhanKR/chatgenius-ai-app/releases/latest)
 
 </div>
 
@@ -39,7 +39,7 @@ ChatGenius is designed to accelerate your daily workflow. It brings together Ope
 Installing the app is incredibly easy. Click the link that matches your operating system:
 
 ### 🪟 Windows (.exe)
-👉 **[Download Windows Version](https://github.com/GokhanKR/electron-gpt-app/releases/latest)**
+👉 **[Download Windows Version](https://github.com/GokhanKR/chatgenius-ai-app/releases/latest)**
 *After downloading, simply double-click the `.exe` file to install.*
 
 ### 🍎 macOS (.dmg)
@@ -47,7 +47,7 @@ Installing the app is incredibly easy. Click the link that matches your operatin
 *We are working hard to bring ChatGenius AI to macOS. Stay tuned for updates.*
 
 ### 🐧 Linux (.AppImage / .deb)
-👉 **[Download Linux Version](https://github.com/GokhanKR/electron-gpt-app/releases/latest)**
+👉 **[Download Linux Version](https://github.com/GokhanKR/chatgenius-ai-app/releases/latest)**
 *Right-click the AppImage file, check "Allow executing file as program", and run it directly.*
 
 <br />
@@ -57,13 +57,21 @@ Installing the app is incredibly easy. Click the link that matches your operatin
 <details>
 <summary><b>Advanced Chat Interface (Click to expand)</b></summary>
 <br>
-<img src="https://via.placeholder.com/800x400.png?text=Chat+Interface" alt="Chat Interface" width="100%"/>
+<img src="./assets/main_1.png" alt="Chat Interface 1" width="100%"/>
+<br><br>
+<img src="./assets/main_2.png" alt="Chat Interface 2" width="100%"/>
+<br><br>
+<img src="./assets/main_3.png" alt="Chat Interface 3" width="100%"/>
 </details>
 
 <details>
 <summary><b>Model Settings & Encryption (Click to expand)</b></summary>
 <br>
-<img src="https://via.placeholder.com/800x400.png?text=Settings+Interface" alt="Settings Interface" width="100%"/>
+<img src="./assets/settings_1.png" alt="Settings Interface 1" width="100%"/>
+<br><br>
+<img src="./assets/settings_2.png" alt="Settings Interface 2" width="100%"/>
+<br><br>
+<img src="./assets/settings_3.png" alt="Settings Interface 3" width="100%"/>
 </details>
 
 <br />
