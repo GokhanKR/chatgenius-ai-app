@@ -7,6 +7,7 @@
   [![Version](https://img.shields.io/badge/Version-1.0.7--beta-blue.svg?style=for-the-badge)](https://github.com/GokhanKR/chatgenius-ai-app/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg?style=for-the-badge)](#-download-now)
   [![License](https://img.shields.io/badge/License-Free-success.svg?style=for-the-badge)](#)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gokhankr)
 
   <br />
 
@@ -80,4 +81,6 @@ Installing the app is incredibly easy. Click the link that matches your operatin
 
 <div align="center">
   <p>Built securely and with ❤️.</p>
+  <br>
+  <a href="https://buymeacoffee.com/gokhankr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 </div>
