@@ -2,7 +2,7 @@
 
   # 🤖 ChatGenius AI Desktop Application
 
-  **All AI Models in One Place, Under Your Control.**
+  **The Ultimate, Extensible AI Assistant Built for Productivity.**
 
   [![Version](https://img.shields.io/badge/Version-1.0.7--beta-blue.svg?style=for-the-badge)](https://github.com/GokhanKR/chatgenius-ai-app/releases)
   [![License](https://img.shields.io/badge/License-Free-success.svg?style=for-the-badge)](#)
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="28" title="OpenAI" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="28" title="Google Gemini" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="28" title="Anthropic Claude" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mistralai/F26829" width="28" title="Mistral AI" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="28" title="Ollama" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="28" title="HuggingFace" />
 
@@ -42,12 +43,22 @@
 
 ## ✨ Why ChatGenius AI?
 
-ChatGenius is designed to accelerate your daily workflow. It brings together OpenAI, Google Gemini, Anthropic (Claude), HuggingFace, and even your locally running models (like Ollama) into a single, elegant interface.
+ChatGenius isn't just another chat interface—it's a fully-fledged, modular, and extensible AI productivity hub. It brings together state-of-the-art cloud providers and local models into a single, elegant desktop application, armed with advanced tool-calling capabilities and deep system integrations.
 
-*   🧠 **Advanced Model Routing:** Our AI engine automatically selects the best model for your prompt, or strictly follows the model you have pinned.
-*   🔒 **Ultimate Privacy & Encryption:** Your chat history and API keys never leave your device; they are securely stored with **military-grade (SQLCipher)** encryption.
-*   ☁️ **Cloud Sync:** Seamlessly sync your chats across all your devices using your own Google Cloud account.
-*   ⚡ **Fast & Modern UI:** Fluid animations, beautiful dark/light modes, and a distraction-free workspace.
+### 🌟 Core Capabilities & Features
+
+*   🧠 **Universal Native Tool Calling:** Powered by a robust, scalable architecture, ChatGenius unifies tool calling across major AI providers (OpenAI, Claude, Gemini, Mistral, Grok, Ollama) using a single schema. The AI can autonomously invoke tools in the background to fetch data, manipulate files, or generate content without interrupting your flow.
+*   📝 **Advanced Note & Document Management:**
+    *   **Google Keep Integration:** Seamlessly import, sync, and manage your Google Keep notes locally.
+    *   **Document Generation Pipeline:** AI can autonomously generate, format, and save complex documents directly to your filesystem with intelligent deduplication to prevent redundant files.
+    *   **Persistent Tools Sidebar:** First-class modular tools (like Notes and Documents) live in a fully integrated, interactive sidebar.
+*   🔍 **Intelligent Context & Semantic Search:** Built-in RAG (Retrieval-Augmented Generation) powered by local ONNX models allows the AI to semantically search your chat history and documents in real-time.
+*   ⚡ **Non-Blocking Architecture:** With our Linked Chat & Background Worker infrastructure, heavy context-building and background tool operations run entirely off the main thread, keeping the UI buttery smooth.
+*   ⌨️ **Namespace Mention System:** Use `@` anywhere in the chat to instantly pull up notes, tools, or contexts with full keyboard-navigation support.
+*   🌐 **Full Localization:** Designed for a global audience with robust i18n support across all complex UI elements, dates, and tool menus (EN, TR, DE, ES).
+*   🔒 **Ultimate Privacy & Encryption:** Your chat history, notes, and API keys never leave your device. Everything is securely stored using **military-grade (SQLCipher)** encryption in a local SQLite database.
+*   ☁️ **Cloud Sync:** Seamlessly sync your encrypted database across all your devices using your own Google Cloud account.
+*   🎨 **Modern UI/UX:** Fluid micro-animations, a premium "Blocks" design aesthetic, sortable chat lists, and beautiful dark/light modes provide a distraction-free workspace.
 
 <br />
 
